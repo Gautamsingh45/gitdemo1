@@ -1,0 +1,37 @@
+*{
+    margin: auto;
+    padding: 0px;
+}
+.container{
+    background-color: blanchedalmond;
+    padding: 20px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+.container input{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid red;
+    box-sizing: border-box;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    resize: vertical;
+    border-radius: 10px;
+}
+#button{
+    background-color: aqua;
+    cursor: pointer;
+}
+table,td,th{
+    border: 2px solid black;
+   
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 15px;
+}
+th{
+    height: 50px;
+}
